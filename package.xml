@@ -19,7 +19,7 @@
 
     <types>
         <members>Volunteer_Tracker_UtilityBar</members>
-        <members>Volunteering_Data</members>
+      
         <name>FlexiPage</name>
     </types>
     <types>
@@ -39,9 +39,6 @@
         <name>RecordType</name>
     </types>
 
-    <types>
-        <members>*</members>
-        <name>ReportType</name>
-    </types>
+  
     <version>41.0</version>
 </Package>
