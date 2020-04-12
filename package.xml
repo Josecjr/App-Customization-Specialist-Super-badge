@@ -5,6 +5,11 @@
         <members>*</members>
         <name>ReportType</name>
     </types>
+	    <types>
+        <members>Volunteer_Tracker_UtilityBar</members>
+        <members>Volunteering_Data</members>
+        <name>FlexiPage</name>
+    </types>
       <types>
         <members>Volunteer_Reports</members>
         <members>Volunteer_Reports/My_Shifts_Pending_Approval</members>
@@ -13,6 +18,16 @@
         <members>Volunteer_Reports/Top_Volunteer_Organizations</members>
         <members>Volunteer_Reports/Top_Volunteers</members>
         <name>Report</name>
+		
+    </types>
+	 <types>
+        <members>Volunteer_Dashboards</members>
+        <members>Volunteer_Dashboards/zSHtUyfzbKEXcwSwtXrlmcWwxXKxkI</members>
+        <name>Dashboard</name>
+    </types>
+	   <types>
+        <members>Volunteer_Tracker</members>
+        <name>CustomApplication</name>
     </types>
     <version>41.0</version>
 </Package>
