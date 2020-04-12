@@ -6,7 +6,7 @@
     <formFactors>Large</formFactors>
     <label>Volunteer Tracker</label>
     <navType>Standard</navType>
-    <tab>Volunteering_Data</tab>
+    
     <tab>standard-Account</tab>
     <tab>Volunteer_Activity__c</tab>
     <tab>Volunteer_Job__c</tab>
