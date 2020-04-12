@@ -19,10 +19,7 @@
                 <behavior>Edit</behavior>
                 <field>AccountNumber</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Volunteer_Organization_Status__c</field>
-            </layoutItems>
+          
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
