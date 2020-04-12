@@ -25,10 +25,7 @@
         <members>Volunteer_Dashboards/zSHtUyfzbKEXcwSwtXrlmcWwxXKxkI</members>
         <name>Dashboard</name>
     </types>
-	   <types>
-        <members>Volunteer_Tracker</members>
-        <name>CustomApplication</name>
-    </types>
+
 	<types>
 
 <members>*</members>
