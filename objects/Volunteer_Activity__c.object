@@ -56,16 +56,6 @@
         <fullName>Volunteer_Organization__c</fullName>
         <externalId>false</externalId>
         <label>Volunteer Organization</label>
-        <lookupFilter>
-            <active>true</active>
-            
-            <filterItems>
-                <field>Account.RecordTypeId</field>
-                <operation>equals</operation>
-                <value>Volunteer Organization Account</value>
-            </filterItems>
-            <isOptional>false</isOptional>
-        </lookupFilter>
         <referenceTo>Account</referenceTo>
         <relationshipLabel>Volunteer Activities</relationshipLabel>
         <relationshipName>Volunteer_Activities</relationshipName>
