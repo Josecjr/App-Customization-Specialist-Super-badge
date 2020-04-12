@@ -43,5 +43,5 @@
         <members>*</members>
         <name>ReportType</name>
     </types>
-    <version>47.0</version>
+    <version>41.0</version>
 </Package>
