@@ -5,6 +5,14 @@
         <members>*</members>
         <name>ReportType</name>
     </types>
-   
+      <types>
+        <members>Volunteer_Reports</members>
+        <members>Volunteer_Reports/My_Shifts_Pending_Approval</members>
+        <members>Volunteer_Reports/My_Top_Volunteer_Organizations</members>
+        <members>Volunteer_Reports/My_Upcoming_Shifts</members>
+        <members>Volunteer_Reports/Top_Volunteer_Organizations</members>
+        <members>Volunteer_Reports/Top_Volunteers</members>
+        <name>Report</name>
+    </types>
     <version>41.0</version>
 </Package>
